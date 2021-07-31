@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nitishspm
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on various project.
+-nitishspm/nitishspm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
